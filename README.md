@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mukeshkumar
-- 👀 I’m interested in machine learning
-- 🌱 I'm currently learning python
+- 👀 ambitious coder
+- 🌱 html, css, javascript,python
 - 📫kumar.mukesh07387@gmail.com
 
 <!---
