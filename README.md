@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mukeshkumar
 - 👀 ambitious coder
-- 🌱 html, css, javascript,python
+- 🌱 HTML,CSS, JavaScript,Python,React
 - 📫kumar.mukesh07387@gmail.com
 
 <!---
